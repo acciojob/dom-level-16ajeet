@@ -1,5 +1,5 @@
 //your JS code here. If required.
-let currentNode = document.getElementBYId('level')
+let currentNode = document.getElementById('level')
 
 let count = 0;
 
